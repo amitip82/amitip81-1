@@ -1,4 +1,4 @@
-- 👋 # Hi there! 👋 I'm Amit Malhotra
+ # Hi there! 👋 I'm Amit Malhotra
   
 I'm a passionate full-stack developer with over 5 years of experience in building web applications, iOS, and Android apps. My expertise lies in leveraging technologies like React.js, Next.js, Node.js, HTML, CSS, and JavaScript to create robust and user-friendly solutions.
 
